@@ -1,0 +1,18 @@
+{
+  "metadata" : {
+    "name"        : "core-development",
+    "description" : "Provides documentation regarding the core-development branch"
+  },
+
+  "contents" : [
+    {
+      "name":"summary",
+      "controller": "",
+      "model":{
+        "text" : "The core-development branch is the root of a [smart-project] template. Changes made on core-development are considered 'Global' and usually cascade to all branches."
+      },
+      "view": {"presentation_type" : "header"}}
+
+  ]
+
+}
